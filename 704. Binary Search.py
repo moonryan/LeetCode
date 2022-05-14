@@ -14,5 +14,3 @@ class Solution:
                 print(l, r, m)
                 return m
         return -1
-
-print(Solution.search(Solution, [1, 3], 3))

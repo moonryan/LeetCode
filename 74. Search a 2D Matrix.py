@@ -29,10 +29,3 @@ class Solution:
                     return True
 
             return False
-
-
-print(Solution.searchMatrix(Solution, 
-
-[[1, 3]], 3
-
-))
